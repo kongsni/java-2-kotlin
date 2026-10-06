@@ -1,4 +1,4 @@
-package com.budzet.java2kotlin;
+package me.jko.java2kotlin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.budzet.java2kotlin;
+package me.jko.java2kotlin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
